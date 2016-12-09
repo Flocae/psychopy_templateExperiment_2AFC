@@ -1,2 +1,2 @@
 # psychopy_templateExperiment_2AFC
-Template for Forced-Choice Task with psychopy
+Simple template for Forced-Choice Task with Psychopy
